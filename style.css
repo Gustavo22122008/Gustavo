@@ -1,0 +1,28 @@
+header{
+    background-color: #D9D9D9;
+    color: white;
+}
+
+
+.logotipo{
+    width: 120px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+
+.cabecalho{
+    background-color: #D9D9D9;
+    color: white;
+}
+
+
+.cabecalho-lista{
+    display: flex;
+    position: relative;
+    left: 300px;
+
+
+}
+
